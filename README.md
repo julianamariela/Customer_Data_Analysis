@@ -1,4 +1,4 @@
-# Customer Insight Dashboard - Customer Behaviour Analysis
+# Customer Insight Dashboard and Target Marketing 
 
 ## Overview
 This project revolves around an in-depth analysis of customer data sourced from the Adventure Works Data Warehouse (ADW), serving as the project's primary data source. AHG, a company associated with the Adventure Works data warehouse, aims to extract valuable insights to inform strategic decisions in marketing and sales. The project aims to uncover patterns, trends, and correlations within the data, ultimately contributing to AHG's business growth.
